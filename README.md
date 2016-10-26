@@ -1,5 +1,6 @@
 #Block Blaster 3000
-[![Block Blaster 3000](https://i.imgur.com/L1Cq6W0.gif)(#)
+![Block Blaster 3000](https://i.imgur.com/L1Cq6W0.gif)
+
 2D recreation of Blockout written in Python using Livewires.
 Requires Python 2.6.6 32-bit, Pygame 1.9.1 32-bit, and Livewires 2.0.
 
