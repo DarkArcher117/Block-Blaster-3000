@@ -1,5 +1,15 @@
-#Block Blaster 3000
-![Block Blaster 3000](https://i.imgur.com/L1Cq6W0.gif)
+<h1 align="center">Block Blaster 3000!</h1>
+
+<p align="center">
+  <a href="https://codeclimate.com/github/arbauman/Block-Blaster-3000"><img src="https://img.shields.io/codeclimate/github/arbauman/Block-Blaster-3000.svg?style=flat-square" alt="Code Climate" /></a>
+  <a href="https://github.com/arbauman/Block-Blaster-3000/issues"><img src="https://img.shields.io/github/issues-raw/arbauman/Block-Blaster-3000.svg?style=flat-square" alt="" /></a>
+  <a href="https://github.com/arbauman/Block-Blaster-3000/graphs/contributors"><img src="https://img.shields.io/github/contributors/arbauman/Block-Blaster-3000.svg?style=flat-square" alt="GitHub contributors" /></a>
+  <a href="https://github.com/arbauman/Block-Blaster-3000/blob/master/license"><img src="https://img.shields.io/github/license/arbauman/Block-Blaster-3000.svg?style=flat-square" alt="license" /></a>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/L1Cq6W0.gif" alt="" />
+</p>
 
 2D recreation of Blockout written in Python using Livewires.
 Requires Python 2.6.6 32-bit, Pygame 1.9.1 32-bit, and Livewires 2.0.
